@@ -1,0 +1,61 @@
+body {
+    background-image: url(./img/photo-1516116216624-53e697fedbea.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.title {
+    background-color: #5B2C6F;
+    color: white;
+    margin: 2em auto;
+    text-align: center;
+    max-width: fit-content;
+    padding: 10px;
+    border-radius: 2em;
+}
+
+.hr {
+    margin: 30px;
+}
+
+.contenedor {
+    background-color: none;
+    height: 200px;
+    width: 400px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 30px;
+}
+
+.title-login {
+    color: white;
+    text-align: center;
+}
+
+.inputs {
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.boton {
+    text-align: center;
+    padding: 10px;
+    border-radius: 2em;
+}
+
+.gmail {
+    margin: auto;
+    text-align: center;
+    border-radius: 2em;
+}
+
+.contra {
+    margin: auto;
+    text-align: center;
+    border-radius: 2em;
+}
